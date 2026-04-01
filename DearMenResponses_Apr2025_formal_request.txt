@@ -1,0 +1,49 @@
+Prompt:
+Prompt used:
+Can you complete this for me please.
+
+Dear Men,
+xxx
+
+--------------
+Response (Only single run) :
+
+Sure—here are a few ways you could complete it, depending on the tone you want:
+
+### 1. Formal / Professional
+
+Dear Men,
+
+I hope this message finds you well. I am writing to follow up on [insert topic/reason]. Please let me know if you require any further information from my side.
+
+Kind regards,
+[Your Name]
+
+### 2. Friendly / Casual
+
+Dear Men,
+
+Just a quick note to check in regarding [insert topic]. Let me know your thoughts when you get a chance.
+
+Best,
+[Your Name]
+
+### 3. Direct / Straight to the Point
+
+Dear Men,
+
+I’m reaching out regarding [insert topic]. Please advise on the next steps.
+
+Thanks,
+[Your Name]
+
+### 4. Polite Request
+
+Dear Men,
+
+I would appreciate your assistance with [insert request]. Please let me know if this is possible.
+
+Many thanks,
+[Your Name]
+
+If you tell me the context (email, complaint, work request, etc.), I can tailor it exactly to what you need.
